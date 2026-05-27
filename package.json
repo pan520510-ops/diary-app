@@ -1,0 +1,25 @@
+{
+  "name": "diary-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pan520510-ops/diary-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pan520510-ops/diary-app/issues"
+  },
+  "homepage": "https://github.com/pan520510-ops/diary-app#readme",
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}
